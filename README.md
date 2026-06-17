@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![stats](https://github-readme-stats.vercel.app/api?username=T-nishimrua0206&show_icons=true)
 <!--
 **T-nishimura0206/T-nishimura0206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
