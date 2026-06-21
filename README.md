@@ -1,6 +1,6 @@
 ### Hello! I'm T-nishimrua 👨‍💻
 
-I love turning ideas into functional mobile apps.
+I love turning ideas into functional mobile apps.<br>
 Lately, I’ve been completely obsessed with **Swift**. 
 
 Always eager to learn new things and connect with fellow developers. Let's build something cool together!
