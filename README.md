@@ -1,4 +1,9 @@
-## Hi there 👋
+### Hello! I'm T-nishimrua 👨‍💻
+
+I love turning ideas into functional mobile apps.
+Lately, I’ve been completely obsessed with **Swift**. 
+
+Always eager to learn new things and connect with fellow developers. Let's build something cool together!
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=T-nishimura0206&show_icons=true&locale=ja&layout=compact&theme=chartreuse-dark" alt="Top Languages" /></p>
 
