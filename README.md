@@ -1,4 +1,4 @@
-### Hello! I'm T-nishimrua 👨‍💻
+### Hello! I'm suppai neko 👨‍💻
 
 I love turning ideas into functional mobile apps.<br>
 Lately, I’ve been completely obsessed with **Swift**. 
